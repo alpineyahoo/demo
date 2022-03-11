@@ -1,0 +1,4 @@
+#!/usr/bin/osascript
+
+display dialog "Have a good night's sleep" buttons {"OK"} default button "OK" giving up after 17
+do shell script "pkill -f cronzzz afplay"
