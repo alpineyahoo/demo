@@ -1,4 +1,0 @@
-#!/usr/bin/env zsh
-
-cd ~/.cron/sleep/
-./cronzzz & ./dialog

@@ -1,5 +1,0 @@
-#!/usr/bin/env zsh
-
-afplay -t 17 ./sounds/lullaby.mp3 &
-afplay -t 17 ./sounds/yawning.mp3 &
-afplay -t 17 ./sounds/snoring.mp3

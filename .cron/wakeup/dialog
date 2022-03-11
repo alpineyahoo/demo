@@ -1,4 +1,0 @@
-#!/usr/bin/osascript
-
-display dialog "Good morning" buttons {"OK"} default button "OK" giving up after 14
-do shell script "pkill -f cronranch mplayer"
