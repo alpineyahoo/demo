@@ -1,3 +1,3 @@
 # デモ
-### [pages](/pages)
+### [pages](/demo/pages)
 ##### [home](/home)
