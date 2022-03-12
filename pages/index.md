@@ -1,4 +1,4 @@
 # pages
 html ファイルをリリースしています :)
-#### [Remind Me](/remind-me.html)
+#### [Remind Me](/demo/pages/remind-me.html)
 ##### [home](/home)
